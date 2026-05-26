@@ -1,0 +1,23 @@
+[2026-05-26T09:32:19.292Z] info: kubernetes.yaml was copied to the config folder
+[2026-05-26T09:35:45.870Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.141Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.157Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.172Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.186Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.199Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.210Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.223Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.239Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.260Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:46.281Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:55.086Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:35:55.096Z] error: Host validation failed for: bighand.tokyo. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-05-26T09:36:23.170Z] info: docker.yaml was copied to the config folder
+[2026-05-26T09:36:23.174Z] info: services.yaml was copied to the config folder
+[2026-05-26T09:36:23.176Z] info: bookmarks.yaml was copied to the config folder
+[2026-05-26T09:36:23.177Z] info: widgets.yaml was copied to the config folder
+[2026-05-26T09:36:23.179Z] info: custom.css was copied to the config folder
+[2026-05-26T09:36:23.180Z] info: custom.js was copied to the config folder
+[2026-05-26T09:36:23.203Z] info: proxmox.yaml was copied to the config folder
+[2026-05-26T09:36:24.454Z] info: 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙
+[2026-05-26T09:43:01.968Z] info: 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙

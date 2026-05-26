@@ -1,0 +1,15 @@
+- My Services:
+    - Trading:
+        href: https://trading.bighand.tokyo
+        description: Trading Platform
+        icon: mdi-finance
+
+    - Stock:
+        href: https://stock.bighand.tokyo
+        description: Stock Dashboard
+        icon: mdi-chart-candlestick
+
+    - Cloud:
+        href: https://cloud.bighand.tokyo
+        description: Cloud Storage
+        icon: mdi-cloud

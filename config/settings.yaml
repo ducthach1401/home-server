@@ -1,0 +1,17 @@
+title: BigHand Home
+theme: dark
+color: slate
+
+background:
+  color: "#050505"
+
+headerStyle: boxed
+cardBlur: none
+hideVersion: true
+useEqualHeights: true
+fiveColumns: false
+
+layout:
+  My Services:
+    style: row
+    columns: 2
