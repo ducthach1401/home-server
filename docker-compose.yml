@@ -13,4 +13,4 @@ services:
     environment:
       PUID: 1000
       PGID: 1000
-      HOMEPAGE_ALLOWED_HOSTS: bighand.tokyo
+      HOMEPAGE_ALLOWED_HOSTS: bighand.tokyo,home.bighand.tokyo,127.0.0.1:3003,localhost:3003

@@ -1,17 +1,39 @@
-title: BigHand Home
+title: BigHand Home 👋
 theme: dark
 color: slate
 
 background:
-  color: "#050505"
+  image: https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=2400&q=80
+  blur: xs
+  saturate: 70
+  brightness: 38
+  opacity: 35
 
-headerStyle: boxed
-cardBlur: none
+headerStyle: boxedWidgets
+cardBlur: sm
 hideVersion: true
 useEqualHeights: true
 fiveColumns: false
+fullWidth: true
+disableCollapse: true
+target: _blank
+
+quicklaunch:
+  searchDescriptions: true
+  hideInternetSearch: false
+  showSearchSuggestions: true
+  hideVisitURL: false
 
 layout:
   My Services:
     style: row
     columns: 2
+  Infrastructure:
+    style: row
+    columns: 4
+  Monitoring:
+    style: row
+    columns: 3
+  Media & Storage:
+    style: row
+    columns: 3

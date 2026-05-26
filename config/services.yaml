@@ -1,15 +1,77 @@
 - My Services:
-    - Trading:
+    - bighand.tokyo:
+        href: https://bighand.tokyo
+        description: Main Website
+        icon: mdi-web
+
+    - cloud.bighand.tokyo:
+        href: https://cloud.bighand.tokyo
+        description: Cloud Storage
+        icon: mdi-cloud
+
+    - trading.bighand.tokyo:
         href: https://trading.bighand.tokyo
         description: Trading Platform
         icon: mdi-finance
 
-    - Stock:
+    - stock.bighand.tokyo:
         href: https://stock.bighand.tokyo
         description: Stock Dashboard
         icon: mdi-chart-candlestick
 
-    - Cloud:
-        href: https://cloud.bighand.tokyo
-        description: Cloud Storage
-        icon: mdi-cloud
+- Infrastructure:
+    - Proxmox:
+        href: https://proxmox.bighand.tokyo
+        description: Server Virtualization
+        icon: proxmox.png
+
+    # Disabled temporarily: service is not reachable yet.
+    # - Portainer:
+    #     href: https://portainer.bighand.tokyo
+    #     description: Docker Management
+    #     icon: portainer.png
+
+    # Disabled temporarily: service is not reachable yet.
+    # - Nginx Proxy Manager:
+    #     href: https://npm.bighand.tokyo
+    #     description: Reverse Proxy
+    #     icon: nginx-proxy-manager.png
+
+    - Cloudflare:
+        href: https://dash.cloudflare.com
+        description: DNS & Tunnel
+        icon: cloudflare.png
+
+# Disabled temporarily: monitoring services are not reachable yet.
+# - Monitoring:
+#     - Uptime Kuma:
+#         href: https://uptime.bighand.tokyo
+#         description: Service Monitoring
+#         icon: uptime-kuma.png
+#
+#     - Grafana:
+#         href: https://grafana.bighand.tokyo
+#         description: Analytics & Metrics
+#         icon: grafana.png
+#
+#     - Prometheus:
+#         href: https://prometheus.bighand.tokyo
+#         description: Metrics Collection
+#         icon: prometheus.png
+
+# Disabled temporarily: media/storage services are not reachable yet.
+# - Media & Storage:
+#     - Jellyfin:
+#         href: https://jellyfin.bighand.tokyo
+#         description: Media Server
+#         icon: jellyfin.png
+#
+#     - Immich:
+#         href: https://immich.bighand.tokyo
+#         description: Photo Backup
+#         icon: immich.png
+#
+#     - NAS:
+#         href: https://nas.bighand.tokyo
+#         description: Network Storage
+#         icon: mdi-nas
