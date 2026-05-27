@@ -25,6 +25,11 @@
         description: Server Virtualization
         icon: proxmox.png
 
+    - Cockpit:
+        href: https://cockpit.bighand.tokyo
+        description: Server Web Console
+        icon: mdi-console-network
+
     # Disabled temporarily: service is not reachable yet.
     # - Portainer:
     #     href: https://portainer.bighand.tokyo
@@ -41,6 +46,12 @@
         href: https://dash.cloudflare.com
         description: DNS & Tunnel
         icon: cloudflare.png
+
+- Media & Storage:
+    - Immich:
+        href: https://immich.bighand.tokyo
+        description: Photo Backup
+        icon: immich.png
 
 # Disabled temporarily: monitoring services are not reachable yet.
 # - Monitoring:
@@ -65,11 +76,6 @@
 #         href: https://jellyfin.bighand.tokyo
 #         description: Media Server
 #         icon: jellyfin.png
-#
-#     - Immich:
-#         href: https://immich.bighand.tokyo
-#         description: Photo Backup
-#         icon: immich.png
 #
 #     - NAS:
 #         href: https://nas.bighand.tokyo
