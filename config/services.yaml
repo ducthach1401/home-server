@@ -20,6 +20,11 @@
         icon: mdi-chart-candlestick
 
 - Infrastructure:
+    - Nginx Proxy Manager:
+        href: https://nginx.bighand.tokyo
+        description: Reverse Proxy Manager
+        icon: nginx-proxy-manager.png
+
     - Proxmox:
         href: https://proxmox.bighand.tokyo
         description: Server Virtualization
@@ -52,6 +57,12 @@
         href: https://immich.bighand.tokyo
         description: Photo Backup
         icon: immich.png
+
+- Network:
+    - Headscale UI:
+        href: https://headscale.bighand.tokyo/web
+        description: Headscale Web Interface
+        icon: mdi-vpn
 
 # Disabled temporarily: monitoring services are not reachable yet.
 # - Monitoring:
