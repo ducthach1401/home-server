@@ -58,12 +58,16 @@
         description: Photo Backup
         icon: immich.png
 
+    - Nextcloud:
+        href: https://nextcloud.bighand.tokyo
+        description: Cloud Storage
+        icon: nextcloud.svg
+
 - Network:
     - Headscale UI:
         href: https://headscale.bighand.tokyo/web
         description: Headscale Web Interface
         icon: mdi-vpn
-
 # Disabled temporarily: monitoring services are not reachable yet.
 # - Monitoring:
 #     - Uptime Kuma:
