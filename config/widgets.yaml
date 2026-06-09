@@ -1,9 +1,10 @@
 ---
 - logo:
+    icon: mdi-flower-poppy
 
 - greeting:
     text_size: xl
-    text: BigHand Home 👋
+    text: BigHand Home
 
 - resources:
     cpu: true
