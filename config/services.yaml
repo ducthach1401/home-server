@@ -79,11 +79,11 @@
         description: Headscale Web Interface
         icon: mdi-vpn
 # Disabled temporarily: monitoring services are not reachable yet.
-# - Monitoring:
-#     - Uptime Kuma:
-#         href: https://uptime.bighand.tokyo
-#         description: Service Monitoring
-#         icon: uptime-kuma.png
+- Monitoring:
+    - Beszel:
+        href: https://monitor.bighand.tokyo
+        description: Service Monitoring
+        icon: beszel.png
 #
 #     - Grafana:
 #         href: https://grafana.bighand.tokyo

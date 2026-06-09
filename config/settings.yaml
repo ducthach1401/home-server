@@ -28,13 +28,16 @@ quicklaunch:
 layout:
   My Services:
     style: row
-    columns: 2
+    columns: 4
   Infrastructure:
+    style: row
+    columns: 4
+  Media & Storage:
     style: row
     columns: 4
   Monitoring:
     style: row
-    columns: 3
-  Media & Storage:
+    columns: 4
+  Network:
     style: row
-    columns: 3
+    columns: 4
