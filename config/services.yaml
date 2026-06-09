@@ -17,7 +17,7 @@
     - stock.bighand.tokyo:
         href: https://stock.bighand.tokyo
         description: Stock Dashboard
-        icon: mdi-chart-candlestick
+        icon: mdi-chart-line
 
 - Infrastructure:
     - Nginx Proxy Manager:
@@ -52,16 +52,26 @@
         description: DNS & Tunnel
         icon: cloudflare.png
 
-- Media & Storage:
-    - Immich:
-        href: https://immich.bighand.tokyo
-        description: Photo Backup
-        icon: immich.png
+    # - Proxmox-Synology:
+    #     href: https://proxmox2.bighand.tokyo
+    #     description: Server Virtualization
+    #     icon: proxmox.png
 
-    - Nextcloud:
-        href: https://nextcloud.bighand.tokyo
-        description: Cloud Storage
-        icon: nextcloud.svg
+- Media & Storage:
+    # - Immich:
+    #     href: https://immich.bighand.tokyo
+    #     description: Photo Backup
+    #     icon: immich.png
+
+    # - Nextcloud:
+    #     href: https://nextcloud.bighand.tokyo
+    #     description: Cloud Storage
+    #     icon: nextcloud.svg
+
+    - Synology NAS:
+        href: https://synology.bighand.tokyo
+        description: Network Storage
+        icon: synology.png
 
 - Network:
     - Headscale UI:
@@ -86,13 +96,9 @@
 #         icon: prometheus.png
 
 # Disabled temporarily: media/storage services are not reachable yet.
-# - Media & Storage:
 #     - Jellyfin:
 #         href: https://jellyfin.bighand.tokyo
 #         description: Media Server
 #         icon: jellyfin.png
 #
-#     - NAS:
-#         href: https://nas.bighand.tokyo
-#         description: Network Storage
-#         icon: mdi-nas
+
