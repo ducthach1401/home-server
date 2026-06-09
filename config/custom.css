@@ -11,6 +11,12 @@
   --muted: #9daac0;
 }
 
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 body {
   min-height: 100vh;
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
@@ -52,10 +58,10 @@ body > * {
 }
 
 #information-widgets {
-  width: 100vw;
-  max-width: none;
+  width: 100%;
+  max-width: 100%;
   min-height: 80px;
-  margin: 0 0 42px calc(50% - 50vw) !important;
+  margin: 0 0 42px 0 !important;
   padding: 16px 28px !important;
   border-bottom: 1px solid rgba(144, 168, 202, 0.15) !important;
   border-top: 0 !important;
